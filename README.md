@@ -1,5 +1,5 @@
-### This small package is not being activly maintained, as I'm currently not using it.
-
+## This small package is not being activly maintained, as I'm currently not using it.
+## There seems to be an [alternative](https://pub.dev/packages/metadata_fetch) created by [jg-l](https://github.com/jg-l), which I didn't test yet. Check it out and see whether it fulfills your needs.
 
 # Open Graph Parser
 
